@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TVMazeScraper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9d9a36fb7fb99371b7443de9537ed460f93e5a23")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+080b8ce0ac924e3096b1beb5b8198e24feedd56e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TVMazeScraper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TVMazeScraper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
